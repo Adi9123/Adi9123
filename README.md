@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am a UAV Systems Engineer and FPV drone pilot focused on building, tuning, and validating real-world drone platforms. My work spans FPV racing drones and autonomous quadcopters, with hands-on experience in flight controller integration, PID tuning, telemetry systems, and embedded electronics.<br><br>I actively work with Pixhawk, SpeedyBee, and CrossFlight flight controllers using PX4 and ArduPilot ecosystems. My experience includes MAVLink-based telemetry, ground control systems, RF link optimization, and iterative flight testing under real operating conditions.<br><br>I follow an engineering-driven workflow—test, fail, diagnose, fix, and validate—using flight data and logs to improve stability, performance, and reliability. I have led UAV development and piloted FPV drones in competitive environments, contributing to a World Rank 3 finish at an international drone racing event.
 
-<!--
-**Adi9123/Adi9123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityashinde9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindeadi0123@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adi9123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adi9123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi9123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adi9123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
